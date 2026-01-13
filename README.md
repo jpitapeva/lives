@@ -16,4 +16,4 @@
 |Transmitido ao vivo em 11 de setembro de 2025|Coding Night|Mesa Redonda #232: Desenvolvimento Back-End - APIs, Serverless, dicas, problemas comuns... 7a ed.|https://www.youtube.com/watch?v=ClCUvFdweks|
 |Transmitido ao vivo em 04 de novembro de 2025 |Canal Azure na Prática|Live #110 Arquiteturas de Integrações - desafios e alternativas de implementação|https://www.youtube.com/watch?v=jqglypUESpU|
 |Transmitido ao vivo em 23 de dezembro de 2025|Canal Azure na Prática|Live #113: Carreira em Nuvem - Como se preparar para 2026?|https://www.youtube.com/watch?v=8EXuboPCFIc|
-|Transmitido ao vivo em 13 de janeiro de 2026|Canal dotNET|Microsoft Ignite 2025: principais novidades - Azure, IA, Containers e muito mais! | Parte 2|https://www.youtube.com/watch?v=YO9OU-Dwlnk|
+|Transmitido ao vivo em 13 de janeiro de 2026|Canal dotNET|Microsoft Ignite 2025: principais novidades - Azure, IA, Containers e muito mais! - Parte 2|https://www.youtube.com/watch?v=YO9OU-Dwlnk|
