@@ -18,4 +18,4 @@
 |Transmitido ao vivo em 23 de dezembro de 2025|Canal Azure na Prática|Live #113: Carreira em Nuvem - Como se preparar para 2026?|https://www.youtube.com/watch?v=8EXuboPCFIc|
 |Transmitido ao vivo em 13 de janeiro de 2026|Canal dotNET|Microsoft Ignite 2025: principais novidades - Azure, IA, Containers e muito mais! - Parte 2|https://www.youtube.com/watch?v=YO9OU-Dwlnk|
 |Transmitido ao vivo em 20 de abril de 2026| Coding Night | Mesa Redonda #252: Arquitetura de Soluções - ferramentas, boas práticas, open source... 10a ed | https://www.youtube.com/watch?v=6rDYYBgvaOo|
-|Palestra presencial em Curitiba em 29 de abril de 2026 | Recrutatech| Tecnologia da era da IA: carreira, pratica e desafios reais | https://recrutatech.com.br/ingresso/recrutatalks0426|
+|Palestra presencial em Curitiba em 29 de abril de 2026 | RecrutaTech| Tecnologia da era da IA: carreira, pratica e desafios reais | https://recrutatech.com.br/ingresso/recrutatalks0426|
