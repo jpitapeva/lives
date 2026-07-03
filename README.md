@@ -20,4 +20,4 @@
 |Transmitido ao vivo em 20 de abril de 2026| Coding Night | Mesa Redonda #252: Arquitetura de Soluções - ferramentas, boas práticas, open source... 10a ed | https://www.youtube.com/watch?v=6rDYYBgvaOo|
 |Palestra presencial em Curitiba em 29 de abril de 2026 | RecrutaTech| Tecnologia da era da IA: carreira, pratica e desafios reais | https://recrutatech.com.br/ingresso/recrutatalks0426, link da gravação: https://youtu.be/tkDenHKke0U|
 |Palestra presencial na PUC em Curitiba em 09 de maio de 2026 |PUC Curitiba|GitHub Copilot Dev Days - Curitiba|https://luma.com/v0nveavb|
-|Palestra presencial na Wise em Curitiba em 01 de julho de 2026|Wise Curitiba| Cache hibrido no dotnet 10|.  |
+|Palestra presencial na Wise em Curitiba em 01 de julho de 2026|Wise Curitiba| Cache hibrido no dotnet 10|https://recrutatech.com.br/ingresso/dotnetexperts0226|
