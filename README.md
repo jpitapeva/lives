@@ -24,3 +24,4 @@
 |Palestra presencial na UNIP em 26 de setembro de 2026| UNIP Vergueiro Sao Paulo|Gerenciamento de configurações sensíveis com Azure Key Vault|https://mvpconf.com.br/conf/br/2026/talks/4cbcacf5-7dde-4146-b350-4ba5f4a398e8|
 |Transmitido ao vivo em 29 de novembro de 2026|Canal Azure na Prática|Live #125: Arquiteturas de Integrações - desafios e alternativas de implementação|https://www.youtube.com/watch?v=zyUpPK0DsYo|
 |Palestra presencial na PUC em Curitiba em 01 de outubro de 2026 |PUC Curitiba|Oficina de Carreiras Tech|
+|Palestra presencial no Vale do Pinhão em Curitiba em 04 de novembro de 2026 |Vale do Pinhão Curitiba|Gerenciamento de configurações sensíveis com Azure Key Vault|https://recrutatech.com.br/ingresso/meetup-devparana-esquenta-devpr-conf|
