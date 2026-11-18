@@ -26,3 +26,4 @@
 |Palestra presencial na PUC em Curitiba em 01 de outubro de 2026 |PUC Curitiba|Oficina de Carreiras Tech||
 |Transmitido ao vivo em 27 de outubro de 2026 |Canal Azure na Prática|Live #126: Arquiteturas de Integrações - desafios e alternativas de implementação - 7a edição|https://www.youtube.com/watch?v=2qA-Ybc0UGM|
 |Palestra presencial no Vale do Pinhão em Curitiba em 04 de novembro de 2026 |Vale do Pinhão Curitiba|Gerenciamento de configurações sensíveis com Azure Key Vault|https://recrutatech.com.br/ingresso/meetup-devparana-esquenta-devpr-conf|
+|Transmitido ao vivo em 17 de novembro de 2026 |Canal Azure na Prática|Live #127: Arquiteturas de Integrações - desafios e alternativas de implementação - 8a edição|https://www.youtube.com/watch?v=sESejx888ak|
